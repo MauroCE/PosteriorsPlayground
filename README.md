@@ -1,2 +1,2 @@
-# PosteriorsPlayground
-Testing Posteriors by Normal Computing
+# Posteriors Playground
+Testing Posteriors by Normal Computing.
